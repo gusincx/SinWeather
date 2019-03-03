@@ -1,0 +1,9 @@
+<litepal>
+    <dbname value = "weather_app"/>
+    <version value="1"/>
+    <list>
+        <mapping class="com.gusincx.weather.db.Province"/>
+        <mapping class="com.gusincx.weather.db.City"/>
+        <mapping class="com.gusincx.weather.db.County"/>
+    </list>
+</litepal>
